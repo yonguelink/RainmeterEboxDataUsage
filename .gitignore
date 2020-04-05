@@ -4,3 +4,4 @@ data.txt
 
 bin/node_modules
 bin/yarn.lock
+bin/yarn.lock
